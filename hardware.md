@@ -117,6 +117,7 @@ description: "What you need to run BEStie: an inexpensive nRF52 board (Adafruit 
         <ul>
           <li>Your watch or cycling computer must support a <strong>smart cycling trainer over Bluetooth (BLE FTMS profile)</strong></li>
           <li>Rule of thumb: if it works with a Zwift-compatible trainer over Bluetooth Low Energy, it works with BEStie</li>
+          <li>Tested by the author on Garmin Edge cycling computers and Garmin Enduro 3 watch; other FTMS-capable devices (e.g. Wahoo ELEMNT computers) follow the same standard</li>
           <li>BEStie can feed two fitness devices at the same time</li>
         </ul>
       </div>

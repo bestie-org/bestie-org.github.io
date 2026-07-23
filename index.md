@@ -1,6 +1,6 @@
 ---
 title: "BEStie — connect your Bosch ebike to your fitness watch"
-description: "BEStie streams power, speed and cadence from your Bosch Smart System ebike straight to your smartwatch or cycling computer over Bluetooth. Free, open source, months of battery life."
+description: "BEStie streams power, speed and cadence from your Bosch Smart System ebike straight to your Garmin, Wahoo or other smart-trainer-compatible smartwatch or cycling computer over Bluetooth. Free, open source, months of battery life."
 ---
 
 <section class="hero">
@@ -10,7 +10,8 @@ description: "BEStie streams power, speed and cadence from your Bosch Smart Syst
       <p class="lede">
         BEStie is a tiny gadget that bridges your Bosch Smart System ebike and your
         smartwatch or cycling computer — streaming <strong>power, speed and cadence</strong>
-        in real time, with no power-meter pedals required.
+        in real time to Garmin, Wahoo and other smart-trainer-compatible devices,
+        with no power-meter pedals required.
       </p>
       <div class="cta-row">
         {% include github-button.html %}
@@ -73,7 +74,7 @@ description: "BEStie streams power, speed and cadence from your Bosch Smart Syst
       </div>
       <div class="feature">
         <h3>Vendor agnostic</h3>
-        <p>Smart-trainer support is everywhere in the Zwift era. No waiting for your device maker to adopt Bosch LDI.</p>
+        <p>Smart-trainer support is everywhere in the Zwift era — Garmin Edge computers, Garmin watches, Wahoo ELEMNT and more. No waiting for your device maker to adopt Bosch LDI.</p>
       </div>
       <div class="feature">
         <h3>Months of battery life</h3>

@@ -1,6 +1,6 @@
 ---
 title: "Installation — flash BEStie and connect it to your bike"
-description: "Step-by-step BEStie setup: put your board into bootloader mode, update the bootloader, flash the firmware with the web-based uploader, then pair with your Bosch bike in the Flow app and with your watch or cycling computer."
+description: "Step-by-step BEStie setup: put your board into bootloader mode, update the bootloader, flash the firmware with the web-based uploader, then pair with your Bosch bike in the Flow app and with your Garmin, Wahoo or other smart watch or cycling computer."
 ---
 
 <section class="page-header">
@@ -127,7 +127,7 @@ SoftDevice: S140 X.Y.Z</code></pre>
     <div class="install-step">
       <h3>Step 6 — Connect your watch or cycling computer</h3>
       <video src="https://github.com/user-attachments/assets/35f18573-002e-4d13-82c6-0c13134a58eb" controls preload="none" muted playsinline></video>
-      <p>The exact menu names vary by device. The general process:</p>
+      <p>The exact menu names vary by device (the process below was tested on Garmin Edge computers and a Garmin Enduro watch; Wahoo and other brands are similar). The general process:</p>
       <ol>
         <li>Pair the bike first (step 5). Once the bike link is up, BEStie switches to focused smart-trainer advertising, which your fitness device finds much faster.</li>
         <li>On your device open <em>Sensors</em> (Garmin: drop-down shade or <em>Settings → Connectivity</em>), then <em>Add new → Search all</em>.</li>
