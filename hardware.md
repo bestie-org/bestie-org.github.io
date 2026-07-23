@@ -1,6 +1,6 @@
 ---
 title: "Hardware compatibility — boards, bikes and fitness gear"
-description: "What you need to run BEStie: an inexpensive nRF52 board (Adafruit Feather, Nordic DK or Seeed XIAO), a Bosch Smart System ebike with the Live Data Interface update, and any fitness device that supports Bluetooth smart trainers."
+description: "What you need for BEStie: a cheap nRF52 board, a Bosch Smart System ebike, and a watch or bike computer with Bluetooth smart trainer (FTMS) support."
 ---
 
 <section class="page-header">

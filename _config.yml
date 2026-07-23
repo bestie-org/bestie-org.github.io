@@ -1,8 +1,7 @@
 title: BEStie
 description: >-
-  BEStie bridges your Bosch Smart System ebike and your fitness gear — it streams
-  power, speed and cadence from the bike straight to your smartwatch or cycling
-  computer over Bluetooth, in real time.
+  BEStie bridges your Bosch Smart System ebike and your fitness gear,
+  streaming power, speed and cadence over Bluetooth in real time.
 url: "https://bestie-org.github.io"
 baseurl: ""
 lang: en

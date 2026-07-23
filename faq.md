@@ -1,6 +1,6 @@
 ---
 title: "FAQ & troubleshooting"
-description: "Answers to common BEStie questions: pairing problems, connection drops, power and cadence values not matching the Kiox display, update latency, and data quality."
+description: "BEStie FAQ: pairing problems, connection drops, power and cadence values vs the Kiox display, update latency and data quality."
 ---
 
 <section class="page-header">

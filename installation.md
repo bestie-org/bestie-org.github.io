@@ -1,6 +1,6 @@
 ---
 title: "Installation — flash BEStie and connect it to your bike"
-description: "Step-by-step BEStie setup: put your board into bootloader mode, update the bootloader, flash the firmware with the web-based uploader, then pair with your Bosch bike in the Flow app and with your Garmin, Wahoo or other smart watch or cycling computer."
+description: "Flash BEStie in 15 minutes with the web uploader, then pair with your Bosch bike and your Garmin, Wahoo or other smart-trainer-compatible device."
 ---
 
 <section class="page-header">
