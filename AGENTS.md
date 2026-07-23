@@ -70,6 +70,10 @@ agent push from the harness failed previously (SSH env restrictions) — do not 
 - The firmware uploader at `bestie-org.github.io/adafruit-uploader/` is a **separate project
   repo's Pages site** — do not create a conflicting `adafruit-uploader/` path here.
 - `Gemfile.lock` and `_site/` are gitignored.
+- GitHub Pages' gem bundle includes `jekyll-optional-front-matter`, which promotes any
+  front-matter-less `.md` (e.g. AGENTS.md) to a rendered page that then leaks into the sitemap.
+  Mitigations in place: `exclude: [AGENTS.md]` in `_config.yml`, and `sitemap.xml` only lists
+  pages whose URL ends in `.html` or `/` (GH Pages also surfaced style.css as a "page").
 
 ## State as of last session
 

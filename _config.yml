@@ -31,3 +31,8 @@ defaults:
       image: /assets/img/og-image.jpg
 
 markdown: kramdown
+
+# GitHub Pages' gem bundle promotes front-matter-less .md files to pages
+# (jekyll-optional-front-matter) — keep agent/docs files out of the build.
+exclude:
+  - AGENTS.md
