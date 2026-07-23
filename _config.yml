@@ -1,0 +1,35 @@
+title: BEStie
+description: >-
+  BEStie bridges your Bosch Smart System ebike and your fitness gear — it streams
+  power, speed and cadence from the bike straight to your smartwatch or cycling
+  computer over Bluetooth, in real time.
+url: "https://bestie-org.github.io"
+baseurl: ""
+lang: en
+repository: bestie-org/BEStie
+logo: /assets/img/og-image.jpg
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# ---------------------------------------------------------------------------
+# Search engine verification tokens.
+# Paste the token values below when you have them — this single file is the
+# only place you need to edit, then commit and push.
+#
+#   Google Search Console -> "HTML tag" method -> copy the content= value
+#   Bing Webmaster Tools  -> <meta name="msvalidate.01" content="..."> value
+# ---------------------------------------------------------------------------
+webmaster_verifications:
+  google: # TODO: paste Google Search Console verification token here
+  bing:   # TODO: paste Bing Webmaster Tools verification token here
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+      image: /assets/img/og-image.jpg
+
+markdown: kramdown
