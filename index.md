@@ -13,7 +13,7 @@ description: "BEStie streams power, speed and cadence from your Bosch Smart Syst
         in real time, with no power-meter pedals required.
       </p>
       <div class="cta-row">
-        {% include star-button.html %}
+        {% include github-button.html %}
         <a class="btn btn-outline" href="{{ '/installation' | relative_url }}">Get started</a>
       </div>
     </div>
@@ -125,7 +125,7 @@ description: "BEStie streams power, speed and cadence from your Bosch Smart Syst
       BEStie is a spare-time, open source project. A GitHub star costs you one click and
       helps other riders discover it more than you think.
     </p>
-    {% include star-button.html %}
+    {% include github-button.html %}
   </div>
 </section>
 

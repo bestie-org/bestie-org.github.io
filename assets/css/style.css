@@ -165,7 +165,7 @@ a:hover { text-decoration: underline; }
 }
 .btn-outline:hover { background: var(--bg-soft); color: var(--accent-dark); }
 
-.star-button {
+.github-button {
   display: inline-flex;
   align-items: center;
   gap: 8px;
@@ -177,8 +177,7 @@ a:hover { text-decoration: underline; }
   font-size: 1rem;
   border: 1px solid #24292f;
 }
-.star-button:hover { background: #32383f; text-decoration: none; color: #fff; }
-.star-icon { color: #ffd33d; }
+.github-button:hover { background: #32383f; text-decoration: none; color: #fff; }
 
 .star-count {
   background: rgba(255, 255, 255, 0.16);
@@ -187,6 +186,7 @@ a:hover { text-decoration: underline; }
   font-variant-numeric: tabular-nums;
   font-size: 0.9em;
 }
+.star-count::before { content: "\2605"; color: #ffd33d; margin-right: 4px; }
 
 /* ---------- Sections ---------- */
 
