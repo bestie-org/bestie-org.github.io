@@ -10,7 +10,6 @@ logo: /assets/img/og-image.jpg
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-sitemap
 
 # ---------------------------------------------------------------------------
 # Search engine verification tokens.
