@@ -22,8 +22,8 @@ plugins:
 #   Bing Webmaster Tools  -> <meta name="msvalidate.01" content="..."> value
 # ---------------------------------------------------------------------------
 webmaster_verifications:
-  google: # TODO: paste Google Search Console verification token here
-  bing:   # TODO: paste Bing Webmaster Tools verification token here
+  google: otDYj2WQr2_TJ1kmUIddNG35OPH1uNzLpTfP4waEjSQ
+  bing:   FA0F58FBF186BE50AF4C9B43D88F7BA6
 
 defaults:
   - scope:
